@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="200585fd-cc5b-4b94-907a-8e56bc07974e" name="Default Changelist" comment="" />
+    <list default="true" id="200585fd-cc5b-4b94-907a-8e56bc07974e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -24,6 +31,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2jEHicWmkoCvlvanovHcMqLOKbH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
@@ -42,7 +51,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="NacosClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -74,22 +83,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720945443184</updated>
-      <workItem from="1720945446285" duration="2803000" />
+      <workItem from="1720945446285" duration="2905000" />
+      <workItem from="1720949336143" duration="368000" />
+      <workItem from="1720949941663" duration="1168000" />
+      <workItem from="1720951256643" duration="271000" />
+      <workItem from="1720951537307" duration="248000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="354" y="12" key="CommitChangelistDialog2" timestamp="1720951753120">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="354" y="12" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1720951753120" />
     <state x="299" y="66" key="Maven.ArtifactSearchDialog" timestamp="1720947126494">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="299" y="66" key="Maven.ArtifactSearchDialog/0.0.1536.816@0.0.1536.816" timestamp="1720947126494" />
-    <state x="272" y="53" key="SettingsEditor" timestamp="1720946422620">
+    <state x="112" y="52" key="SettingsEditor" timestamp="1720951408425">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="272" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1720946422620" />
+    <state x="112" y="52" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1720951408425" />
+    <state x="361" y="144" key="Vcs.Push.Dialog.v2" timestamp="1720950208715">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1720950208715" />
+    <state x="461" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1720951257854">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="461" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1720951257854" />
     <state x="178" y="112" key="new project wizard" timestamp="1720945824314">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
